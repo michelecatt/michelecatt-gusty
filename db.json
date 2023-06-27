@@ -1,0 +1,354 @@
+[
+    {
+        "id": 12,
+        "description": "Il primo secondo realizzato da Gusty",
+        "ingredients": [
+            {
+                "ingredient": "flour",
+                "qty": 500
+            },
+            {
+                "ingredient": "sugar",
+                "qty": 250
+            },
+            {
+                "ingredient": "eggs",
+                "qty": 4
+            },
+            {
+                "ingredient": "butter",
+                "qty": 200
+            },
+            {
+                "ingredient": "milk",
+                "qty": 300
+            }
+        ],
+        "name": "Pollo alla cacciatora V1"
+    },
+    {
+        "id": 21,
+        "description": "Risotto ai porcini secchi",
+        "ingredients": [
+            {
+                "ingredient": "flour",
+                "qty": 500
+            },
+            {
+                "ingredient": "sugar",
+                "qty": 250
+            },
+            {
+                "ingredient": "eggs",
+                "qty": 4
+            },
+            {
+                "ingredient": "butter",
+                "qty": 200
+            },
+            {
+                "ingredient": "milk",
+                "qty": 300
+            }
+        ],
+        "name": "Risotto ai funghi V1"
+    },
+    {
+        "id": 23,
+        "description": "Pasta al tonno in bianco",
+        "ingredients": [
+            {
+                "ingredient": "flour",
+                "qty": 500
+            },
+            {
+                "ingredient": "sugar",
+                "qty": 250
+            },
+            {
+                "ingredient": "eggs",
+                "qty": 4
+            },
+            {
+                "ingredient": "butter",
+                "qty": 200
+            },
+            {
+                "ingredient": "milk",
+                "qty": 300
+            }
+        ],
+        "name": "Pasta al tonno bianca V1"
+    },
+    {
+        "id": 24,
+        "description": "Risotto allo Zafferano con gestione automatica dei liquidi",
+        "ingredients": [
+            {
+                "ingredient": "flour",
+                "qty": 500
+            },
+            {
+                "ingredient": "sugar",
+                "qty": 250
+            },
+            {
+                "ingredient": "eggs",
+                "qty": 4
+            },
+            {
+                "ingredient": "butter",
+                "qty": 200
+            },
+            {
+                "ingredient": "milk",
+                "qty": 300
+            }
+        ],
+        "name": "Risotto allo Zafferano V7"
+    },
+    {
+        "id": 26,
+        "description": "Risotto ai frutti di mare con cozze, vongole, calamari e gamberetti in bianco",
+        "ingredients": [
+            {
+                "ingredient": "flour",
+                "qty": 500
+            },
+            {
+                "ingredient": "sugar",
+                "qty": 250
+            },
+            {
+                "ingredient": "eggs",
+                "qty": 4
+            },
+            {
+                "ingredient": "butter",
+                "qty": 200
+            },
+            {
+                "ingredient": "milk",
+                "qty": 300
+            }
+        ],
+        "name": "Risotto ai frutti di mare V1"
+    },
+    {
+        "id": 29,
+        "description": "Uno dei primi piatti tipici della cucina italiana sono le TROFIE AL PESTO DI BASILICO E PINOLI: una pietanza ricca di profumo e sapore che, comunque, è anche abbastanza leggera. La sua preparazione è estremamente semplice e veloce e ti permetterà di portare in tavola un piatto perfetto sia per i pranzi tra amici, sia per una pausa pranzo durante unâintensa giornata lavorativa.",
+        "ingredients": [
+            {
+                "ingredient": "flour",
+                "qty": 500
+            },
+            {
+                "ingredient": "sugar",
+                "qty": 250
+            },
+            {
+                "ingredient": "eggs",
+                "qty": 4
+            },
+            {
+                "ingredient": "butter",
+                "qty": 200
+            },
+            {
+                "ingredient": "milk",
+                "qty": 300
+            }
+        ],
+        "name": "Trofie al pesto V1"
+    },
+    {
+        "id": 20,
+        "description": "Esecuzione di test per verificare le velocità ed i pattern",
+        "ingredients": [
+            {
+                "ingredient": "flour",
+                "qty": 500
+            },
+            {
+                "ingredient": "sugar",
+                "qty": 250
+            },
+            {
+                "ingredient": "eggs",
+                "qty": 4
+            },
+            {
+                "ingredient": "butter",
+                "qty": 200
+            },
+            {
+                "ingredient": "milk",
+                "qty": 300
+            }
+        ],
+        "name": "*TEST* Velocità e pattern"
+    },
+    {
+        "id": 32,
+        "description": "Test che accende semplicemente la telecamera, i led e l'anello riscaldante",
+        "ingredients": [
+            {
+                "ingredient": "flour",
+                "qty": 500
+            },
+            {
+                "ingredient": "sugar",
+                "qty": 250
+            },
+            {
+                "ingredient": "eggs",
+                "qty": 4
+            },
+            {
+                "ingredient": "butter",
+                "qty": 200
+            },
+            {
+                "ingredient": "milk",
+                "qty": 300
+            }
+        ],
+        "name": "*TEST* Camera"
+    },
+    {
+        "id": 33,
+        "description": "Come le altre trofie ma con l'uso di pasta fresca",
+        "ingredients": [
+            {
+                "ingredient": "flour",
+                "qty": 500
+            },
+            {
+                "ingredient": "sugar",
+                "qty": 250
+            },
+            {
+                "ingredient": "eggs",
+                "qty": 4
+            },
+            {
+                "ingredient": "butter",
+                "qty": 200
+            },
+            {
+                "ingredient": "milk",
+                "qty": 300
+            }
+        ],
+        "name": "Trofie al pesto - Pasta Fresca V1"
+        
+    },
+    {
+        "id": 35,
+        "description": "VERSIONE 2 - Sarebbero meglio i tonnarelli ma ci facciamo andare bene anche le mezze maniche...",
+        "ingredients": [
+            {
+                "ingredient": "flour",
+                "qty": 500
+            },
+            {
+                "ingredient": "sugar",
+                "qty": 250
+            },
+            {
+                "ingredient": "eggs",
+                "qty": 4
+            },
+            {
+                "ingredient": "butter",
+                "qty": 200
+            },
+            {
+                "ingredient": "milk",
+                "qty": 300
+            }
+        ],
+        "name": "Mezze maniche cacio e pepe V2"
+    },
+    {
+        "id": 36,
+        "description": "Caponata alle otto del mattino?? E a mezzogiorno? Topi morti???",
+        "ingredients": [
+            {
+                "ingredient": "flour",
+                "qty": 500
+            },
+            {
+                "ingredient": "sugar",
+                "qty": 250
+            },
+            {
+                "ingredient": "eggs",
+                "qty": 4
+            },
+            {
+                "ingredient": "butter",
+                "qty": 200
+            },
+            {
+                "ingredient": "milk",
+                "qty": 300
+            }
+        ],
+        "name": "Caponata di Melanzane V1"
+    },
+    {
+        "id": 37,
+        "description": "Un bel baccalà con pomodorini, pinoli e uvetta",
+        "ingredients": [
+            {
+                "ingredient": "flour",
+                "qty": 500
+            },
+            {
+                "ingredient": "sugar",
+                "qty": 250
+            },
+            {
+                "ingredient": "eggs",
+                "qty": 4
+            },
+            {
+                "ingredient": "butter",
+                "qty": 200
+            },
+            {
+                "ingredient": "milk",
+                "qty": 300
+            }
+        ],
+        "name": "Merluzzo alla mediterranea V1"
+    },
+    {
+        "id": 38,
+        "description": "VERSIONE 3 - Cambio del formato di pasta",
+        "ingredients": [
+            {
+                "ingredient": "flour",
+                "qty": 500
+            },
+            {
+                "ingredient": "sugar",
+                "qty": 250
+            },
+            {
+                "ingredient": "eggs",
+                "qty": 4
+            },
+            {
+                "ingredient": "butter",
+                "qty": 200
+            },
+            {
+                "ingredient": "milk",
+                "qty": 300
+            }
+        ],
+        "name": "Rigatoni cacio e pepe V3"
+    }
+]
